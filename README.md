@@ -29,8 +29,8 @@ TotalCharges : The total amount charged to the customer
 Churn : Whether the customer churned or not (Yes or No)
 
 Notebook Contents :
-Dataset Information
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Modeling
+Dataset Information,
+Exploratory Data Analysis (EDA),
+Feature Engineering,
+Modeling,
 Modeling Results
